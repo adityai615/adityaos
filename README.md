@@ -85,7 +85,7 @@ src/
 **Requirements:** Node.js 20+, npm
 
 ```bash
-git clone https://github.com/adityai615/aditya-ai.git
+git clone https://github.com/adityajainlabs/aditya-ai.git
 cd aditya-ai
 npm install
 ```
@@ -156,7 +156,7 @@ The live deployment: **[https://adityajain-os.vercel.app/](https://adityajain-os
 
 - **Website:** [adityajain-os.vercel.app](https://adityajain-os.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/adityajain-ai](https://linkedin.com/in/adityajain-ai)
-- **GitHub:** [github.com/adityai615](https://github.com/adityai615)
+- **GitHub:** [github.com/adityajainlabs](https://github.com/adityajainlabs)
 - **Email:** aditya.jain.codes@gmail.com
 
 ---

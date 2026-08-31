@@ -165,7 +165,7 @@ const commands: Record<string, CommandHandler> = {
     lines: [
       "Varta AI",
       "WhatsApp AI Agent Platform",
-      "GitHub: github.com/adityai615/varta-ai-whatsapp-agent",
+      "GitHub: github.com/adityajainlabs/varta-ai-whatsapp-agent",
       "Includes:",
       "* RAG (FAISS + Chroma)",
       "* LangChain + Groq",
@@ -192,7 +192,7 @@ const commands: Record<string, CommandHandler> = {
       "Aditya OS",
       "Interactive developer portfolio (this site).",
       "Live: adityajain-os.vercel.app",
-      "GitHub: github.com/adityai615/adityaos",
+      "GitHub: github.com/adityajainlabs/adityaos",
     ],
   }),
   "project flysmart": () => ({
@@ -200,7 +200,7 @@ const commands: Record<string, CommandHandler> = {
     lines: [
       "FlySmart",
       "Multi-route MakeMyTrip flight scraper.",
-      "GitHub: github.com/adityai615/FlySmart",
+      "GitHub: github.com/adityajainlabs/FlySmart",
       "Exports merged CSV to data/all_flights.csv",
     ],
   }),

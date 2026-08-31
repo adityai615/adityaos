@@ -1,6 +1,6 @@
 import type { GitHubDashboardData, GitHubProfile, GitHubRepo } from "@/types/github";
 
-export const GITHUB_USERNAME = "adityai615";
+export const GITHUB_USERNAME = "adityajainlabs";
 
 const TOP_REPO_LIMIT = 6;
 

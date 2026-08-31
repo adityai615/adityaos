@@ -133,7 +133,7 @@ export const PROJECTS: Project[] = [
       "Conversation management",
     ],
     links: {
-      github: "https://github.com/adityai615/varta-ai-whatsapp-agent",
+      github: "https://github.com/adityajainlabs/varta-ai-whatsapp-agent",
     },
     details: {
       problem:
@@ -213,7 +213,7 @@ export const PROJECTS: Project[] = [
       "Desktop and mobile shell layouts",
     ],
     links: {
-      github: "https://github.com/adityai615/adityaos",
+      github: "https://github.com/adityajainlabs/adityaos",
       liveDemo: "https://adityajain-os.vercel.app/",
     },
     details: {
@@ -250,7 +250,7 @@ export const PROJECTS: Project[] = [
       "Master CSV at data/all_flights.csv",
     ],
     links: {
-      github: "https://github.com/adityai615/FlySmart",
+      github: "https://github.com/adityajainlabs/FlySmart",
     },
     details: {
       problem:
